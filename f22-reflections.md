@@ -11,14 +11,18 @@ __
 ## Week #, MM/DD/YYYY
 
 ### Weekly Goals
-[] Goal 1
-[] Goal 2
+- [] Goal 1
+- [] Goal 2
 
 __Day, Time Spent__
-[] Task 1
-[] Task 2
+- [] Task 1
+- [] Task 2
 
 __Key Takeaways__
+- [] Takeaway 1
+- [] Takeaway 2
 
 __Reflections__
+REFLECTION PARAGRAPH
+
 ---
