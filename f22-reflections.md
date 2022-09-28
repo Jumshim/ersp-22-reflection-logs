@@ -54,6 +54,6 @@ Did the students keeping their logs seem to meet their goals? Did they get bette
  
 What makes me most excited about ERSP, and why?
 - The #1 bringer of excitement is the chance to meet more friends. I have not had too many opportunities to meet many engineering majors, so the fact that I will be spending so much time with the same people, through struggles and triumphs, is a very warm thought. 
-- 
+
 What makes me the most nervous about ERSP, and why?
 - The #1 bringer of anxiety to me is the fear of not having enough time. What if I choose a research direction which is millions of times more complex than I anticipated? What if I do not vibe with my teammates? What if I am forced to choose between two of my favorite commitments because a day is only 24 hours? 
