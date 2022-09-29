@@ -33,6 +33,11 @@ REFLECTION PARAGRAPH
 - [ ] Become friends with project-mates
 - [ ] Successfully onboard required materials to begin research proposal brainstorming
 
+__Thursday, September 29 - Time Spent: 1.5 Hours__
+- [X] Established boundaries and communicated with teammates
+- [X] Made a cute group chat so we can communicate
+- [X] Organized first meeting time to finish research preparation and the offical main meeting (Next Wednesday, October 5 from 5:00-7:00 PM)
+
 __Tuesday, September 28 - Time Spent: 2 Hours__
 - [X] Wednesday Pre-Class Assignments
   -   Initialized research logs: Chose to write my logs on Github to force myself to learn proper git flow, markdown language, and repository management
