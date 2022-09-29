@@ -37,6 +37,8 @@ __Thursday, September 29 - Time Spent: 1.5 Hours__
 - [X] Established boundaries and communicated with teammates
 - [X] Made a cute group chat so we can communicate
 - [X] Organized first meeting time to finish research preparation and the offical main meeting (Next Wednesday, October 5 from 5:00-7:00 PM)
+   - Established smaller meeting times where everyone is available for mentor meetings
+   - Preferred modes of communication established
 
 __Tuesday, September 28 - Time Spent: 2 Hours__
 - [X] Wednesday Pre-Class Assignments
