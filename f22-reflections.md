@@ -1,7 +1,9 @@
 # Jeffrey's Research Log!
 ---
 *Research Topic:*
+
 *Research Paper:*
+
 *Research Description:*
 ___
 ## Resources
