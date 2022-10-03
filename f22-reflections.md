@@ -27,6 +27,39 @@ REFLECTION PARAGRAPH
 
 ---
 
+## Week 2, 10/02/2022
+
+### Weekly Goals
+- [X] Develop skills on learning how to read a research paper
+- [X] Develop more understanding about research topic and terminology
+- [] Establish a research question to frame focus for the upcoming weeks
+- [] Familiarize self with V-Lab setup and people
+
+__Sunday, October 2 Time Spent: 
+- [X] Establish Meeting Time
+- [X] Read and Take Notes on "How to Read an Engineering Research Paper
+   - Research paper outline:
+      - Introduction states motivations and outlines solution
+      - Body: author's solution to a problem and detailed evaluation of solution
+      - Recap: Dicussion of primary contributions
+   - Important Questions to Keep in Mind:
+      - What are the motivations? Unstated people problem vs technical problem? Why o we not have a trivial solution yet? What are our solutions?
+      - What is the proposed solution? How is it achieved and what makes it better than the status quo?
+      - Evaluation of Proposed solution? Make the case for the idea
+      - Analysis of Identified Problem: Pros, Cons, Flaws, Benefits, Arguments,...
+      - What are the contributions? Ideas, software, techniques are also included in contributions
+      - What are future directions?
+      - Leftover questions? Future takeaways?
+
+__Key Takeaways__
+- [] Takeaway 1
+- [] Takeaway 2
+
+__Reflections__
+REFLECTION PARAGRAPH
+
+---
+
 ## Week 1, 09/26/2022
 
 ### Weekly Goals
