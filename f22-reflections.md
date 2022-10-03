@@ -37,7 +37,7 @@ REFLECTION PARAGRAPH
 - [] Establish a research question to frame focus for the upcoming weeks
 - [] Familiarize self with V-Lab setup and people
 
-__Sunday, October 2 Time Spent: 
+__Sunday, October 2 Time Spent: 1 hour__
 - [X] Establish Meeting Time
 - [X] Read and Take Notes on "How to Read an Engineering Research Paper
    - Research paper outline:
