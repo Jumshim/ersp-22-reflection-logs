@@ -41,6 +41,7 @@ REFLECTION PARAGRAPH
 __Tuesday, October 4 Time Spent: 1.5 Hours__
 - [X] Read over Differential Symbolic Execution research paper by Person, Dwyer, Elbaum
    - Notes: https://github.com/Jumshim/ersp-22-reflection-logs/blob/main/cs110-research-activities/research_first_pass.md
+
 __Monday, October 3 Time Spent: 1 Hour__
 - [X] Attend VLab Meeting at meet research time with Professor Bultan
 - [X] Read over slides on Symbolic Execution (25-35)
