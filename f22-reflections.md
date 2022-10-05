@@ -35,7 +35,8 @@ REFLECTION PARAGRAPH
 - [X] Develop skills on learning how to read a research paper
 - [X] Develop more understanding about research topic and terminology
 - [] Establish a research question to frame focus for the upcoming weeks
-- [] Familiarize self with V-Lab setup and people
+- [X] Familiarize self with V-Lab setup and people
+- [X] Read over a research paper on Symbolic Execution to become more familiar with research topic
 
 __Tuesday, October 4 Time Spent: 1.5 Hours__
 - [X] Read over Differential Symbolic Execution research paper by Person, Dwyer, Elbaum
