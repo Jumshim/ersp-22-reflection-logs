@@ -40,33 +40,7 @@ REFLECTION PARAGRAPH
 
 __Tuesday, October 4 Time Spent: 1.5 Hours__
 - [X] Read over Differential Symbolic Execution research paper by Person, Dwyer, Elbaum
-**Abstract**
-- Current Problem: Existing techniques for characterizing code changes are imprecise and lead to unnecessary maintenance efforts
-   - Main scope: Detecting and characterizing effects of software changes for software maintenance upkeep
-   - Solution: Application of symbolic execution techniques which compute precise behavioral characterizations of changes, *Differential Symbolic Execution*
-**Introduction**
-- Regression testing: differences are used to focus re-testing efforts by selecting only test cases which exercise modified selections of codde
-   - Current testing methods: source file *diff*, but fails with negligible changes to syntax or formatting
-- Why DSE? DDSE allows a program to "skip" the symbolic execution parts of a program that are unchanged between versions
-   - Reduces analysis costs and avoid fundamental limitations of symbolic execution
-   - Supports a wide range of program evolution tasks such as equivalence checking and regression test generation
-   - Precisely characterizes changes between two program versions
- - More specification steps to the work:
-   1) Precisely characterizes behavioral program differences through symbolic execution
-   2) Develops techniques to compute over-approximating symbolic methodd summaries by identifying and automatically summarizing the behavior of common program fragments
-   3) Defines and characterizes behavioral equivalences between program / version differences
-   4) Post-processing symbolic execution results are computed to find such differences
-   5) Defines conditions when DSE analysis results account for program behavior
-   6) Describes applications of DSE to support the automation of program evolution tasks
-**4.1 Functional Equivalence and Delta**
-- Function equivalence ignores the internal details of a method (syntax, formatting, structure) and focuses on "what" effect it gives for an input
-   - Similar to black box methods of testing
- - *Delta*: captures behavioral differences between methods symbolically
-**Conclusion**
-- Core of DSE: deltas and equivalence
-   - Equivalence and deltas: Sensitive only to black-box behavior that consider a measure of white-box behavior
-- Future work: further develop DSE algorithms, enineer scalable implementations of those algorithms, develop automated support for DSE client applications, and study the cost and effectiveness of DSE in software maintenace tasks. 
-- 
+   - Notes: https://github.com/Jumshim/ersp-22-reflection-logs/blob/main/cs110-research-activities/research_first_pass.md
 __Monday, October 3 Time Spent: 1 Hour__
 - [X] Attend VLab Meeting at meet research time with Professor Bultan
 - [X] Read over slides on Symbolic Execution (25-35)
