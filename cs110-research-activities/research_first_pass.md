@@ -93,11 +93,31 @@
 
 
 ## Part 2.2
-What is your takeaway message from this paper?
-What is the motivation for this work (both people and technical problem), and its distillation into a research question? Why doesn't the problem have a trivial solution? What are the previous solutions and why are they inadequate?
-What is the proposed solution? Why is it believed it will work? How does it represent an improvement? How is the solution achieved?
-What is the author's evaluation of the solution? What logic, argument, evidence, artifacts (e.g., a proof-of-concept system), or experiments are presented in support of the idea?
-What is your analysis of the identified problem, idea and evaluation? Is this a good idea? What flaws do you perceive in the work? What are the most interesting or controversial ideas? For work that has practical implications, ask whether this will work, who would want it, what it will take to give it to them, and when it might become a reality?
-What are the paper's contributions (author's and your opinion)? Ideas, methods, software, experimental results, experimental techniques...?
-What are the future directions for this research (author's and hours, perhaps driven by shortcomings or other critiques)?
-What questions are you left with? What questions would you like to raise in an open discussion of the work (review interesting and controversial points above)? What do you find difficult to understand? List as many as you can.
+
+### What is your takeaway message from this paper?
+- Modern solutions to debugging and source code differentiation are insufficient in cost, time, and effort. Shifts to better symbolic code execution have been implemented, but are not substantial enough to warrant an overhaul of previous approaches.
+- To supplement a new approach, the research paper offers Differential Symbolic Execution as a new comparison method. Differential Symbolic Execution (DSE) offers a new outlook by allowing for more high-level / abstract comparisons of code without getting distracted by simple formatting and syntactical changes. Benefits of DSE include cost and time efficiency, precision, and more detailed bug reports. 
+
+### What is the motivation for this work (both people and technical problem), and its distillation into a research question? Why doesn't the problem have a trivial solution? What are the previous solutions and why are they inadequate?
+- Answered slightly in the previous question, but the motivation for this work comes from inadequate modern solutions. People wise, current programmers have difficulty in debugging and comparing various version histories / source code differentiation because comments and descriptions of code changes are too distacting. Technically, these reports focus too much on simple syntax and formatting that more abstract and higher level problems with the code are hard to ddigest.
+- The problem does have a trivial solution, but only for very simple formats of code. Complex concepts such as recursion and iteration and state management have served as roadblocks for previous iterations of symbolic execution, but differential symbolic execution and the current efforts striving for DSE are trying to assauge such problems. Rather than providing a pure binary response to a program, DSE can explain conceptual similarities and differences in code execution. 
+
+### What is the proposed solution? Why is it believed it will work? How does it represent an improvement? How is the solution achieved?
+- DSE primarily uses specific diff tools to parse through code and compare the actions going on inside. By tracking the poossible paths and partition-effects pairs a variable may undergo, DSE can offer summaries of "what happened symbolically" to local, global, and parameter variables to have a better understanding of a project. Furthermore, DSE is adaptive. Learning from previous source comparisons, DSE can save time and money by skipping over irrelevant symbolic execution blocks and focus on new summaries (saving time and money). 
+- Improvements for DSE include more time-cost efficiency, better understanding of code differences, and better readability for abstract POVs of code.
+- Partition effect pairs achieve this solution by parsing through code and comparing symbolic values with each other to find logical equivalences (similar) and deltas (differences).
+
+### What is the author's evaluation of the solution? What logic, argument, evidence, artifacts (e.g., a proof-of-concept system), or experiments are presented in support of the idea?
+- The author is adamant in DSE, providing many mathematical proofs of testing, surveys from past experiments, and explanations of higher level concepts. While the author admits faults in his research for complex topics such as recursion and iteration, symbolic execution was the more preferred method of comparison for simple concepts.
+- Mathematical proofs come into play when thinking about how DSE would work. Since it is a new concept, it is not plausible to expect real simulations and high amounts of survey traffic, but the author uses discrete mathematics to show that "hey, DSE does offer solutions to these trival problems in testing."
+
+### What is your analysis of the identified problem, idea and evaluation? Is this a good idea? What flaws do you perceive in the work? What are the most interesting or controversial ideas? For work that has practical implications, ask whether this will work, who would want it, what it will take to give it to them, and when it might become a reality?
+- The identified problem, idea, and evaluation are interesting, but I am very curious for future implementations. From my experiences with projects, understanding the basis of a code block is crucial for following the flow of a program and I wonder whether DSE will improve code debugging or make it more muddled. I also wish that the work did a better job at outsourcing information or providing better resources to prove their claim, the paper was moreso a presentation of a hypothetical idea than a fully fleshed-out report on a research investigation. 
+
+### What are the paper's contributions (author's and your opinion)? Ideas, methods, software, experimental results, experimental techniques...?
+
+### What are the future directions for this research (author's and hours, perhaps driven by shortcomings or other critiques)?
+
+What questions are you left with? What questions would you like to raise in an open discussion of the work (review interesting and controversial points above)?
+
+What do you find difficult to understand? List as many as you can.
