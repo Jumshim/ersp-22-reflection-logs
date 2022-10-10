@@ -113,11 +113,22 @@
 
 ### What is your analysis of the identified problem, idea and evaluation? Is this a good idea? What flaws do you perceive in the work? What are the most interesting or controversial ideas? For work that has practical implications, ask whether this will work, who would want it, what it will take to give it to them, and when it might become a reality?
 - The identified problem, idea, and evaluation are interesting, but I am very curious for future implementations. From my experiences with projects, understanding the basis of a code block is crucial for following the flow of a program and I wonder whether DSE will improve code debugging or make it more muddled. I also wish that the work did a better job at outsourcing information or providing better resources to prove their claim, the paper was moreso a presentation of a hypothetical idea than a fully fleshed-out report on a research investigation. 
+- I believe version control companies like Gitlab, Github, and Microsoft will take interest in these practical implications. I believe it functions pretty similarly to Github CI/CD actions, but DSE is a more in-depth explanation of the code. For this to be actually implemented, though, will take a long time. Recursion and iteration are two major roadblocks, yet those are pretty simple concepts in the world of computer science (api calls, network requests, frameworks, etc... are much more difficult). 
 
 ### What are the paper's contributions (author's and your opinion)? Ideas, methods, software, experimental results, experimental techniques...?
+- The paper contributes two things:
+   - A new approach to source code diffing and version control through symbolic execution
+   - A perspective on challenging existing practices to show that things may always have room for improvement. 
 
 ### What are the future directions for this research (author's and hours, perhaps driven by shortcomings or other critiques)?
+- Future directions for research include better implementations for recursion and iteration, briefer summaries (if the summaries are too long, then that itself may make programming more confusing than the directness of current source code diffing), and implementations for languages other than Java and Python. 
 
-What questions are you left with? What questions would you like to raise in an open discussion of the work (review interesting and controversial points above)?
+### What questions are you left with? What questions would you like to raise in an open discussion of the work (review interesting and controversial points above)?
+- What makes loops and recursion so difficult to understand?
+- How would these abstract summaries be represented on paper, what would the computer read?
+- At what place is this investigation now? Are there more findings?
 
-What do you find difficult to understand? List as many as you can.
+### What do you find difficult to understand? List as many as you can.
+- Differential Math
+- The # of possible paths a computer has the compute
+- How this is more cost and time effective
