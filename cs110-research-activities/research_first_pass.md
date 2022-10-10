@@ -80,3 +80,24 @@
 - Incomplete vs Complete symbolic summaries
 - Equivalences and Deltas
 - Refactoring assitance
+
+# Pass 2
+----
+## Part 2.1
+- Revisiting 5.2
+   - Difficult topics: Functional Equivalence
+   - Symbolic Execution
+   - Abstract summaries
+- The difficult aspects were addressed in a share excel file with my research group:
+   -  Difficult Terms Dictionary: https://docs.google.com/spreadsheets/d/1vSvVDRM01zhh9HELbt__LugGeyf2Qdg_bZXGSx98GXw/edit?usp=sharing
+
+
+## Part 2.2
+What is your takeaway message from this paper?
+What is the motivation for this work (both people and technical problem), and its distillation into a research question? Why doesn't the problem have a trivial solution? What are the previous solutions and why are they inadequate?
+What is the proposed solution? Why is it believed it will work? How does it represent an improvement? How is the solution achieved?
+What is the author's evaluation of the solution? What logic, argument, evidence, artifacts (e.g., a proof-of-concept system), or experiments are presented in support of the idea?
+What is your analysis of the identified problem, idea and evaluation? Is this a good idea? What flaws do you perceive in the work? What are the most interesting or controversial ideas? For work that has practical implications, ask whether this will work, who would want it, what it will take to give it to them, and when it might become a reality?
+What are the paper's contributions (author's and your opinion)? Ideas, methods, software, experimental results, experimental techniques...?
+What are the future directions for this research (author's and hours, perhaps driven by shortcomings or other critiques)?
+What questions are you left with? What questions would you like to raise in an open discussion of the work (review interesting and controversial points above)? What do you find difficult to understand? List as many as you can.
