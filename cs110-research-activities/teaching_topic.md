@@ -34,6 +34,7 @@ Using the order of path constaints, the state of the program it is in, and it's 
 
 When symbolic execution is ran on these two blocks of code:
 take note that these programs look vastly different in formatting and syntax.
+
 <img width="395" alt="image" src="https://user-images.githubusercontent.com/61306390/195433311-7c570950-d7a4-40b7-8fb6-bedc6af51968.png">
 
 PROGRAM 1:
