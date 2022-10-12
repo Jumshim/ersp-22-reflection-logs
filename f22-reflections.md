@@ -29,14 +29,13 @@ REFLECTION PARAGRAPH
 
 ---
 
-## Week 2, 10/02/2022
+__
+## Week 3, 10/19/2022
 
 ### Weekly Goals
-- [X] Develop skills on learning how to read a research paper
-- [X] Develop more understanding about research topic and terminology
-- [] Establish a research question to frame focus for the upcoming weeks
-- [X] Familiarize self with V-Lab setup and people
-- [X] Read over a research paper on Symbolic Execution to become more familiar with research topic
+- [] Goal 1
+- [] Goal 2
+
 
 __Tuesday, October 11 Time Spent: 1 Hour__
 - [X] Finish research for teaching topic
@@ -45,6 +44,24 @@ __Tuesday, October 11 Time Spent: 1 Hour__
    - https://dl.acm.org/doi/10.1145/1453101.1453131
    - Report given by Laboni
 - Link to teaching topic: 	https://ersp-22-reflection-logs/teaching_topic.md
+
+__Key Takeaways__
+- [] Takeaway 1
+- [] Takeaway 2
+
+__Reflections__
+REFLECTION PARAGRAPH
+
+---
+
+## Week 2, 10/02/2022
+
+### Weekly Goals
+- [X] Develop skills on learning how to read a research paper
+- [X] Develop more understanding about research topic and terminology
+- [] Establish a research question to frame focus for the upcoming weeks
+- [X] Familiarize self with V-Lab setup and people
+- [X] Read over a research paper on Symbolic Execution to become more familiar with research topic
 
 __Saturday, October 8 Time Spent: 1.5 Hours__
 - [X] Finished second pass of DSE Research paper
