@@ -38,6 +38,31 @@ REFLECTION PARAGRAPH
 - [X] Familiarize self with V-Lab setup and people
 - [X] Read over a research paper on Symbolic Execution to become more familiar with research topic
 
+__Tuesday, October 11 Time Spent: 1 Hour__
+- [X] Finish research for teaching topic
+   - Resources referenced:
+   - https://en.wikipedia.org/wiki/Symbolic_execution
+   - https://dl.acm.org/doi/10.1145/1453101.1453131
+   - Report given by Laboni
+- Link to teaching topic: 	https://ersp-22-reflection-logs/teaching_topic.md
+
+__Saturday, October 8 Time Spent: 1.5 Hours__
+- [X] Finished second pass of DSE Research paper
+   - I realized that I had actually understood it a lot better my first pass than I expected
+   - This was just for more clarity, but the math makes sense when I read it
+- [X] Research more into teaching topic
+
+__Thursday, October 6 Time Spent: 2 Hours __
+- [X] Met with graduate mentor, Laboni, and receive more clarity on difficult concepts from the DSE first pass
+- [X] Assign teaching topics accordingly
+   - I was assigned with taking a deep dive into Differential Symbolic Execution to make it easier for our group to understand
+- [X] Learned about other important topics and programs
+   - ANGR
+   - BAB
+   - Constaint Solving
+- [X] Begin reading "State of War" and a survey of binary code similarities
+- Notes from meetings, courtesy of Sophia Weiler: https://docs.google.com/document/d/1J7kZYvHW4ZUQ6APIMgC_ARZvYdpaMYOS3W3i-xElWvg/edit?usp=sharing
+
 __Tuesday, October 4 Time Spent: 1.5 Hours__
 - [X] Read over Differential Symbolic Execution research paper by Person, Dwyer, Elbaum
    - Notes: https://github.com/Jumshim/ersp-22-reflection-logs/blob/main/cs110-research-activities/research_first_pass.md
@@ -69,11 +94,13 @@ __Sunday, October 2 Time Spent: 1 hour__
       - Leftover questions? Future takeaways?
 
 __Key Takeaways__
-- [] Takeaway 1
-- [] Takeaway 2
+- [X] I need to touch up on my Discrete Mathematics skills
+- [X] Research papers aren't always determining the same goal, they can be very hard to understand and read
+- [X] I think our group is the best >.<
 
 __Reflections__
-REFLECTION PARAGRAPH
+
+The more I learn about the reseach project and interact with my group mates, the more excited I become. I genuinely believe that our project is the most interesting and can't wait to start doing hands-on experiments and formulating my own thoughts on it. I do think it has a very high standard of entry, these research papers are very confusing, but I know it will be worth it in the end. BULTAN SUPREMACY!
 
 ---
 
