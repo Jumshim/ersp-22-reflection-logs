@@ -56,3 +56,6 @@ ICSE
 ISSTA
 
 Create 1 or 2 examples, and explain how DSE could be used to find equivalences
+< 100
+<= 99
+syntactically different, but functionally similar
