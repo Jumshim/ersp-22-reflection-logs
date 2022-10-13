@@ -49,3 +49,8 @@ The symbolic representations of the two programs are identical and the path cons
 
 DO MORE LOGICAL SUMMARY RESEARCH
 https://en.wikipedia.org/wiki/Z3_Theorem_Prover
+
+
+Automated Software Engineering
+ICSE
+ISSTA
