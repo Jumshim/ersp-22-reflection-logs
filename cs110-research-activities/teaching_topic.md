@@ -54,3 +54,5 @@ https://en.wikipedia.org/wiki/Z3_Theorem_Prover
 Automated Software Engineering
 ICSE
 ISSTA
+
+Create 1 or 2 examples, and explain how DSE could be used to find equivalences
