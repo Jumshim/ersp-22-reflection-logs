@@ -36,6 +36,13 @@ __
 - [] Goal 1
 - [] Goal 2
 
+__Wednesday, October 12 Time Spent: 1 Hour__
+- [X] Catch up meeting with Bultan group
+   - Went over VLab notes
+   - Reviewed teaching topics
+   - Considered questions for Laboni
+   - Attendees: Sophia, Jeffrey, Erica, Adrian
+- [X] Consider time commitment for ERSP and converse with Prof. Mirza
 
 __Tuesday, October 11 Time Spent: 1 Hour__
 - [X] Finish research for teaching topic
