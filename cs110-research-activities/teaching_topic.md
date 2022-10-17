@@ -47,13 +47,10 @@ The constraint for the program to return 0 is currentTime-t >= 100
 
 The symbolic representations of the two programs are identical and the path constraints for the input, output effects are also similar. Thus, DSE would not flag any DELTAS, determine EQUIVALENCES for the program and would not raise any erros. 
 
+EXAMPLE OF CODE:
 <img width="316" alt="image" src="https://user-images.githubusercontent.com/61306390/196077210-96b5b761-2a53-4a26-bde7-aa27365d1815.png">
 <img width="867" alt="image" src="https://user-images.githubusercontent.com/61306390/196077184-d6e2daee-9513-417a-8905-631bc493d381.png">
-https://www.youtube.com/watch?v=QrtGOrSrVPQ
 
+## Presentation used for Teaching Topic:
 https://docs.google.com/presentation/d/1XAceXBstXQqVYubj2nPgoJnMGxo1kl8vUp8hk0V2D3M/edit?usp=sharing
-
-Automated Software Engineering
-ICSE
-ISSTA
 
