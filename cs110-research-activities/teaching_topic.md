@@ -51,7 +51,7 @@ The symbolic representations of the two programs are identical and the path cons
 <img width="867" alt="image" src="https://user-images.githubusercontent.com/61306390/196077184-d6e2daee-9513-417a-8905-631bc493d381.png">
 https://www.youtube.com/watch?v=QrtGOrSrVPQ
 
-
+https://docs.google.com/presentation/d/1XAceXBstXQqVYubj2nPgoJnMGxo1kl8vUp8hk0V2D3M/edit?usp=sharing
 
 Automated Software Engineering
 ICSE
