@@ -28,13 +28,50 @@ __Reflections__
 REFLECTION PARAGRAPH
 
 ---
-
-__
-## Week 3, 10/19/2022
+## Week 4, 10/16/2022
 
 ### Weekly Goals
 - [] Goal 1
 - [] Goal 2
+
+__Monday, October 12 Time Spent: 2 Hour__
+- [X] Verification Lab Meeting
+   - Adrian took notes
+   - Went over current progress within the Lab
+   - Discussed ERSP progress and possible start times
+- [X] Dicussed with Prof. Bultan on possible opportunities
+- [X] Teaching topic done
+
+__Key Takeaways__
+- [] Takeaway 1
+- [] Takeaway 2
+
+__Reflections__
+REFLECTION PARAGRAPH
+
+---
+
+## Week 3, 10/9/2022
+
+### Weekly Goals
+- [X] Be better at DSE
+- [X] Figure out my commitments and make priorities
+
+
+__Saturday, October 12 Time Spent: 2 Hour__
+- [X] Created slides for teaching topic
+- [X] Practiced creating logical method summaries for my own work
+- [X] Included more information on logical method summaries
+
+__Thursday, October 12 Time Spent: 1 Hour__
+- [X] Meeting with Laboni
+   - Discussed future plans and programming ideas
+   - Revisited teaching topic progress
+   - Updated progress
+   - I should visit more Logical Method Summaries
+   - Discussed best venues for our firled
+- [X] Preliminary teaching topic preparation
+   - Read research article and watched MIT lecutre video on Symbolic Execution
 
 __Wednesday, October 12 Time Spent: 1 Hour__
 - [X] Catch up meeting with Bultan group
@@ -53,11 +90,12 @@ __Tuesday, October 11 Time Spent: 1 Hour__
 - Link to teaching topic: 	https://ersp-22-reflection-logs/teaching_topic.md
 
 __Key Takeaways__
-- [] Takeaway 1
-- [] Takeaway 2
+- [X] Effort and interest are all that is needed to make progress
+- [X] It is great to be in a discipline where there is so much to choose from
+- [X] I can take things slowly, I'm only 19
 
 __Reflections__
-REFLECTION PARAGRAPH
+There is a huge rat race in Computer Science where everyone is trying to be on top of the pyrmaid, but that isn't something that should affect my own progress. Why bother pursuing avenues I'm not even interested in? It is okay to take things slow, but with passion. 
 
 ---
 
