@@ -42,6 +42,18 @@ __Monday, October 12 Time Spent: 2 Hour__
 - [X] Dicussed with Prof. Bultan on possible opportunities
 - [X] Teaching topic done
 
+__Wednesday, October 12 Time Spent: 2 Hours__
+- [X] ERSP Group Meeting
+   - Taught each other the rest of the teaching topics
+   - Caught up on Constraint-Effect Solving and ANGR
+
+__Thursday, October 12 Time Spent: 1 Hour__
+- [X] VLab Advisor Meeting
+   - More clarification on Logical Method Summary and Constraint Solving
+      - Proof by Negation
+- [X] Research Proposal Thinking
+   - Function-Wise Differential Symbolic Execution
+
 __Key Takeaways__
 - [] Takeaway 1
 - [] Takeaway 2
