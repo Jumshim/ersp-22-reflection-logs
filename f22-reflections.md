@@ -54,12 +54,16 @@ __Thursday, October 12 Time Spent: 1 Hour__
 - [X] Research Proposal Thinking
    - Function-Wise Differential Symbolic Execution
 
+__Sunday, October 15 Time Spent: 2 Hours__
+- [X] Meet with ERSP Group to finish literature proposal
+- [X] Find more research papers to connect on Mural
+- [X] Write related works section
+
 __Key Takeaways__
 - [] Takeaway 1
 - [] Takeaway 2
 
-__Reflections__
-REFLECTION PARAGRAPH
+__Literature Search Part 3__
 
 ---
 
