@@ -28,13 +28,55 @@ __Reflections__
 REFLECTION PARAGRAPH
 
 ---
+__
+## Week 5, 10/24/2022
+
+### Weekly Goals
+- [X] Finish Related Works section of Proposal
+- [X] Figure out direction for proposal
+- [] Setup angr on CSIL and Mac
+   - Finished Mac setup
+- [X] Begin Programming
+- [X] Setup Proposal
+
+__Wednesday, October 26, Time Spent: 2 hours__
+- [X] Setup Angr on Mac
+- [X] Create script to fast-install angr
+- [X] Play around with software
+- [X] Created possible research proposals
+   - Variation in for loops and recursion (1 to 10 and 10 to 1 and while i < 10)
+   - Improving Angr with a GUI
+   - Ways to save memory through binary analysis
+   - Cybersecurity DSE on computer program states
+   - Crytography to reduce scope of possible passwords
+   - Symbolic Execution to deliver satistical data on branches (Grammarly for Code)
+
+Tuesday, October 25, Time Spent: 1.5 hours__
+- [X] Wrote summaries for group-agreed important papers
+- [X] Edited introduction section on proposal (Overleaf)
+- [X] Researched more gaps in literature
+
+__Monday, October 24, Time Spent: 2 hours__
+- [X] Attend VLab meeting
+- [X] Update mural with new extensions of papers
+   - BAP and ANGR focus
+   - Stray away from Debugging and testing softwares
+- [X] Write related works section 
+
+__Key Takeaways__
+- [] Takeaway 1
+- [] Takeaway 2
+
+__Reflections__
+REFLECTION PARAGRAPH
+--- 
 ## Week 4, 10/16/2022
 
 ### Weekly Goals
 - [] Goal 1
 - [] Goal 2
 
-__Monday, October 12 Time Spent: 2 Hour__
+__Monday, October 17 Time Spent: 2 Hour__
 - [X] Verification Lab Meeting
    - Adrian took notes
    - Went over current progress within the Lab
@@ -42,19 +84,19 @@ __Monday, October 12 Time Spent: 2 Hour__
 - [X] Dicussed with Prof. Bultan on possible opportunities
 - [X] Teaching topic done
 
-__Wednesday, October 12 Time Spent: 2 Hours__
+__Wednesday, October 19 Time Spent: 2 Hours__
 - [X] ERSP Group Meeting
    - Taught each other the rest of the teaching topics
    - Caught up on Constraint-Effect Solving and ANGR
 
-__Thursday, October 12 Time Spent: 1 Hour__
+__Thursday, October 20 Time Spent: 1 Hour__
 - [X] VLab Advisor Meeting
    - More clarification on Logical Method Summary and Constraint Solving
       - Proof by Negation
 - [X] Research Proposal Thinking
    - Function-Wise Differential Symbolic Execution
 
-__Sunday, October 15 Time Spent: 2 Hours__
+__Sunday, October 23 Time Spent: 2 Hours__
 - [X] Meet with ERSP Group to finish literature proposal
 - [X] Find more research papers to connect on Mural
 - [X] Write related works section
