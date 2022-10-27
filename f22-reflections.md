@@ -51,7 +51,7 @@ __Wednesday, October 26, Time Spent: 2 hours__
    - Crytography to reduce scope of possible passwords
    - Symbolic Execution to deliver satistical data on branches (Grammarly for Code)
 
-Tuesday, October 25, Time Spent: 1.5 hours__
+__Tuesday, October 25, Time Spent: 1.5 hours__
 - [X] Wrote summaries for group-agreed important papers
 - [X] Edited introduction section on proposal (Overleaf)
 - [X] Researched more gaps in literature
