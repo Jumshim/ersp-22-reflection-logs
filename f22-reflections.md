@@ -37,8 +37,12 @@ REFLECTION PARAGRAPH
 - [] Goal 2
 
 __Thursday, November 3rd Time Spent: 1 hr__
-- [] Task 1
-- [] Task 2
+- [X] Found that function-wise differential symbolic execution has already been implemented
+   - [X] Changing our project scope to a new direction
+   - [X] Need to find out what direction we want to go into
+- [X] Read more research papers
+   - [X] 13 Compositional symbolic execution using fine-grained summaries 
+   - [X] 20 Under Constrained Differential Symbolic Execution: Generating fine-grained summaries
 
 __Wednesday, November 2nd Time Spent: 1 hr__
 - [] Task 1
