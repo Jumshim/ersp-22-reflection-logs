@@ -28,6 +28,34 @@ __Reflections__
 REFLECTION PARAGRAPH
 
 ---
+
+
+## Week 6, 10/31/2022
+
+### Weekly Goals
+- [] Goal 1
+- [] Goal 2
+
+__Thursday, November 3rd Time Spent: 1 hr__
+- [] Task 1
+- [] Task 2
+
+__Wednesday, November 2nd Time Spent: 1 hr__
+- [] Task 1
+- [] Task 2
+
+__Tuesday, November 1st Time Spent: 1 hr__
+- [] Task 1
+- [] Task 2
+
+__Key Takeaways__
+- [] Takeaway 1
+- [] Takeaway 2
+
+__Reflections__
+REFLECTION PARAGRAPH
+
+---
 __
 ## Week 5, 10/24/2022
 
@@ -38,6 +66,19 @@ __
    - Finished Mac setup
 - [X] Begin Programming
 - [X] Setup Proposal
+
+__Friday, October 28, Time Spent: 2 Hours__
+- [X] Zoom meeting with ERSP group to finish initial project proposal
+   - Took around 1 hour when we were all working together
+
+- [X] Sent over initial project proposal to Laboni for review
+
+__Thursday, October 27, Time Spent: 2 hours__
+- [X] Meeting with Laboni
+   - Erica, Sophia, Adrian, and Jeffrey in Attendance
+   - Received login information for Linux systems
+   - Established project scopes
+      - Comparing Function-Wise DSE in BAP vs Angr
 
 __Wednesday, October 26, Time Spent: 2 hours__
 - [X] Setup Angr on Mac
