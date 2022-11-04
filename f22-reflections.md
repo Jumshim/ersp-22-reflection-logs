@@ -43,14 +43,18 @@ __Thursday, November 3rd Time Spent: 1 hr__
 - [X] Read more research papers
    - [X] 13 Compositional symbolic execution using fine-grained summaries 
    - [X] 20 Under Constrained Differential Symbolic Execution: Generating fine-grained summaries
+- [X] Sophia, Jeffrey, Erica, and Adrian all in attendance
 
 __Wednesday, November 2nd Time Spent: 1 hr__
-- [] Task 1
-- [] Task 2
+- [X] Group meeting on Zoom from 6:00-7:00
+   - Caught up on Github assignment
+   - Organized thoughts for Thursday lab mentor meeting
 
-__Tuesday, November 1st Time Spent: 1 hr__
-- [] Task 1
-- [] Task 2
+__Monday, October 31st Time Spent: 1 hr__
+- [X] V-Lab meeting from 11:00-12:00
+   - Received feedback from Professor Bultan on project scope
+   - Sophia took note 
+   - Sophia, Adrian, Jeffrey, and Erica all in attendance
 
 __Key Takeaways__
 - [] Takeaway 1
@@ -74,7 +78,6 @@ __
 __Friday, October 28, Time Spent: 2 Hours__
 - [X] Zoom meeting with ERSP group to finish initial project proposal
    - Took around 1 hour when we were all working together
-
 - [X] Sent over initial project proposal to Laboni for review
 
 __Thursday, October 27, Time Spent: 2 hours__
