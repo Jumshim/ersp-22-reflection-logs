@@ -112,8 +112,8 @@ __Monday, October 24, Time Spent: 2 hours__
 - [X] Write related works section 
 
 __Key Takeaways__
-- [] Takeaway 1
-- [] Takeaway 2
+- [X] Coming up with new ideas is hard, every good idea or interesting idea I have has already been solved / done
+- [X] With such a hard topic to learn, I find it difficult to understand the subject enough to propose a research direction
 
 __Reflections__
 REFLECTION PARAGRAPH
@@ -121,8 +121,8 @@ REFLECTION PARAGRAPH
 ## Week 4, 10/16/2022
 
 ### Weekly Goals
-- [] Goal 1
-- [] Goal 2
+- [X] Find more resources to begin project
+- [X] Be ready to start the next week and begin writing proposal
 
 __Monday, October 17 Time Spent: 2 Hour__
 - [X] Verification Lab Meeting
@@ -149,12 +149,10 @@ __Sunday, October 23 Time Spent: 2 Hours__
 - [X] Find more research papers to connect on Mural
 - [X] Write related works section
 
-__Key Takeaways__
-- [] Takeaway 1
-- [] Takeaway 2
-
-__Literature Search Part 3__
-
+__Key Takeaways and Reflection__
+- We have the luxury/deficit of a really hard topic
+   - I enjoy having the capacity to learn so much, but I don't enjoy how unapplicable it is to my daily life.
+   - I feel like groups working with more real-world-applicable projects have the pleasure of synthesizing daily inquiries with their technologies, but ours is so computer-focused.
 ---
 
 ## Week 3, 10/9/2022
