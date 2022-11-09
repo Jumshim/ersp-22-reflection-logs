@@ -28,7 +28,32 @@ __Reflections__
 REFLECTION PARAGRAPH
 
 ---
+## Week 7, 11/06/2022
 
+### Weekly Goals
+- [] Goal 1
+- [] Goal 2
+
+__Tuesday, November 8 Time Spent 2 hr__
+- [X] 2 hour team sync, Erica, Adrian, Sophia, and Jeffrey all in attendance
+   - Reviewing assigned research paper tasks
+   - Deciding new approach for paper
+   - Rewrite proposal to fit new approach
+
+__Monday, November 7 Time Spent 2 hr__
+- [X] Read over sample proposal and give critiques
+- [X] Read paper #13 and #20 to find more info on different forms of DSE
+   - Under constrained symbolic execution w/ fine grained summaries
+   - Create questions for tomorrow's team sycn
+
+__Key Takeaways__
+- [] Takeaway 1
+- [] Takeaway 2
+
+__Reflections__
+REFLECTION PARAGRAPH
+
+---
 
 ## Week 6, 10/31/2022
 
