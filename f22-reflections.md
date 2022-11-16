@@ -38,7 +38,7 @@ REFLECTION PARAGRAPH
    - [] Determine how to recreate the Control Flow Graphs / change angr's inner implementation
 
 __Tuesday, Time Spent: 1 hr__
-- [] Wrote peer review for Prof. Gupta's group
+- [X] Wrote peer review for Prof. Gupta's group
 
 __Monday, Time Spent: 1 hr__
 - [X] No writing lab, got cancelled due to strike
