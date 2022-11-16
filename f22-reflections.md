@@ -28,11 +28,45 @@ __Reflections__
 REFLECTION PARAGRAPH
 
 ---
+
+## Week 8, 11/13/2022
+
+### Weekly Goals
+- [X] Receive peer review on our proposal
+- [X] Finalize relevant research papers
+- [] Test out angr and become familiar with python / ocaml
+   - [] Determine how to recreate the Control Flow Graphs / change angr's inner implementation
+
+__Tuesday, Time Spent: 1 hr__
+- [] Wrote peer review for Prof. Gupta's group
+
+__Monday, Time Spent: 1 hr__
+- [X] No writing lab, got cancelled due to strike
+- [X] Reread over Laboni's 2nd revision and Chinmay's comments on proposal
+   -[X] Fixed similar mistakes pointed out in both reviews
+
+__Key Takeaways__
+- [] Takeaway 1
+- [] Takeaway 2
+
+__Reflections__
+REFLECTION PARAGRAPH
+
+---
+
 ## Week 7, 11/06/2022
 
 ### Weekly Goals
-- [] Goal 1
-- [] Goal 2
+- [X] Receive feedback from Chinmay and Laboni on our research problem switch
+- [X] Finish proposal enough for Peer Reviews
+- [X] Determine new scope for project and do appropriate research
+
+__Wednesday, November 9 Time Spent 2 hr__
+- [X] Free proposal writing time in class, worked with Sophia over Zoom
+   - Found more clarification on what our project should be
+   - Determined questions for Laboni at tomorrow's lab meeting
+   - Asked Prof. Mirza and Chinmay on appropriate stylings / how to approach a changed direction
+   - Reread our research papers individually and fleshed out any decrepancies in our paper
 
 __Tuesday, November 8 Time Spent 2 hr__
 - [X] 2 hour team sync, Erica, Adrian, Sophia, and Jeffrey all in attendance
@@ -45,11 +79,7 @@ __Monday, November 7 Time Spent 2 hr__
 - [X] Read paper #13 and #20 to find more info on different forms of DSE
    - Under constrained symbolic execution w/ fine grained summaries
    - Create questions for tomorrow's team sycn
-
-__Key Takeaways__
-- [] Takeaway 1
-- [] Takeaway 2
-
+   - 
 __Reflections__
 REFLECTION PARAGRAPH
 
@@ -80,10 +110,6 @@ __Monday, October 31st Time Spent: 1 hr__
    - Received feedback from Professor Bultan on project scope
    - Sophia took note 
    - Sophia, Adrian, Jeffrey, and Erica all in attendance
-
-__Key Takeaways__
-- [] Takeaway 1
-- [] Takeaway 2
 
 __Reflections__
 REFLECTION PARAGRAPH
