@@ -168,6 +168,29 @@ __Key Takeaways__
 
 __Reflections__
 REFLECTION PARAGRAPH
+
+__Literature Search Part 3__
+*Write a one-paragraph summary of the paper, in your own words*
+*Write about the relationship between this paper and your original paper*
+*Specify why you chose the paper*
+
+**Paper 1: Using Binary Analysis Frameworks: The Case for BAP and angr**
+One of the main tools for applying symbolic execution to computer programs is a binary analysis platform. When a project executable, also called a binary, is inputted into a binary analysis platform, the program does all of the heavy lifting which converts the binary code into an intermediate mathematical representation and creates a logical method summary on it. The two leading platforms for binary analysis are angr and BAP.
+
+This paper summarizes the uses of a binary analysis platform and cross-compares BAP and angr to evaluate each others' strengths weaknesses. angr's main strengths are its ease of use, python compatibility, and the ability to work on a program hollistically. BAP's main strengths are its high functionality, OCaml compatibility, and its ability to split a program into individualized function-wise bits.
+
+We chose this paper because one of our main research scopes is to cross compare the two programs on how they handle new execution methods. This paper provided the best motivations for our research scope and helped our group understand the differences and significances between binary analysis platforms.
+
+**Paper 2: Compositional Symbolic Execution Using Fine-Grained Summaries**
+Symbolic execution's weakness is its inability to take care of path explosion, leading to memory and runtime inefficiencies. This paper introduces the idea of compositional symbolic execution, separating a program into compositional pieces, using fine grained summaries, matching input-output pairs based on arbitrary code blocks rather than entire functions. This solves issues to the underlying constraint solver because it abstracts symbolic execution into digestible parts.
+
+We chose this paper because it will be one of the methods we are trying to implement into BAP / angr for cross comparison. Can both of the programs support it? Does one of them support it better than the other? This paper provides a very good understanding of compositional symbolic execution as well as a depper dive into its capabilities. 
+
+**Paper 3: Under-Constrained Symbolic Execution: Correctness Checking for Real Code**
+This paper introduces a novel framework, UC-KLEE, to solve the scalability issues of symbolic execution. Focusing more on a debugging application of symbolic execution, this paper uses the program to spot-apply patches to see whether a program would crash / would not return an exepcted output. This program goes even further to find memory leaks, unitialized data, and areas that would have been glossed over through traditional debugging methods.
+
+We chose this paper because it is similar to our idea of executing symbolic execution on a larger program by breaking it down. We are cross comparing programs on angr and BAP, but this adds a chance for us to think about applicability in the real world.
+
 --- 
 ## Week 4, 10/16/2022
 
