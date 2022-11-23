@@ -28,6 +28,33 @@ __Reflections__
 REFLECTION PARAGRAPH
 
 ---
+## Week 9, 11/30/2022
+
+### Weekly Goals
+- [X] Figure out goals with ERSP
+   - View Week 8 Reflection
+- [X] Decide if I want to continue with ERSP
+   - Yes
+- [] Finalize presentation and proposal for submission
+
+__Sunday, Time Spent 2 Hrs:__
+- [X] Found more graphics for the proposal
+- [X] Expanded more on KATCH and compositional symbolic execution vs differential symbolic execution vs functional symbolic execution
+- [X] Clarified more on Fine Grained Summaries
+
+
+__Monday, Time Spent 1 Hr:__
+- [X] Conducted grad student interview with Mara, a PhD student in the Verification Lab
+- [X] Reflection 4 
+
+__Key Takeaways__
+- [] Takeaway 1
+- [] Takeaway 2
+
+__Reflections__
+REFLECTION PARAGRAPH
+
+---
 
 ## Week 8, 11/13/2022
 
@@ -36,6 +63,26 @@ REFLECTION PARAGRAPH
 - [X] Finalize relevant research papers
 - [] Test out angr and become familiar with python / ocaml
    - [] Determine how to recreate the Control Flow Graphs / change angr's inner implementation
+   - DELAYED TO NEXT WEEK
+
+__Friday, Time Spent: 1.5 Hr__
+- Had Grad meeting with Laboni, Sophia, Jeffrey, Adrian, and Erica in attendance
+   - Went over Compositional Symbolic Execution
+   - Worked over our misunderstandings
+      - Not pseudocode, but rather abstract symbols for variables etc...
+- Got the news from Sophia that she will not be continuing ERSP for the W23 / S23 quarters.
+   - Reflect on this
+
+__Thursday, Time Spent: 1 Hr__
+- Originally had our grad meeting scheduled, but it got sidetracked due to another VLab meeting happening at the same time
+   - Pushed to Friday
+- Setup angr on SSH Linux computer
+
+__Wednesday, Time Spent: 2 hr__
+- [X] Went to writing lab to receive feedback
+- [X] Finished project proposal
+   - Project proposal rewrite went really well! We used some of the peer feedback to guide our writing, but most of our writing and edits were taken from our grad mentor (Laboni) and Chinmay's comments. The writing lab wasn't too useful though, I thought that they didn't know how to read a research paper and that it was mainly directed towards literature and essay-esque writing.
+   - Worked on assignments due the next week
 
 __Tuesday, Time Spent: 1 hr__
 - [X] Wrote peer review for Prof. Gupta's group
@@ -46,11 +93,11 @@ __Monday, Time Spent: 1 hr__
    -[X] Fixed similar mistakes pointed out in both reviews
 
 __Key Takeaways__
-- [] Takeaway 1
-- [] Takeaway 2
+- [X] Why do I really want to do research? What do I want to gain out of it?
+- [X] Symbolic Execution is Hard..
 
 __Reflections__
-REFLECTION PARAGRAPH
+Sophia just told our group that she will not be continuing with ERSP, and it really got me thinking about why I want to do research and what my motivations are for the group. Some factors I am considering is time committment, effort, and just general interest, but I know that some of my other group members are also a little iffy on the whole subject. ERSP for me was a way to get closer with my TAs and other Professors at UCSB, making more friends, and getting more invested in UCSB's CoE culture. Have I achieved this? Yes. But now that I am starting to do more research, my shift for ERSP has changed to a more academic standpoint. 
 
 ---
 
