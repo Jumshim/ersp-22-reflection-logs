@@ -1,14 +1,10 @@
 # Jeffrey's Research Log!
 ---
-*Research Topic:*
+*Research Topic:* Integrating Compositional Symbolic Execution into the Binary Analysis Platform, angr
 
-*Research Paper:*
+*Main Research Paper:* Compositional Symbolic Execution Using Fine Grained Summaries
 
-*Research Description:*
-___
-## Resources
-*input resources here*
-
+*Research Description:* Symbolic Execution's greatest challenge is its inability to maneuver around path explosion. Loops and recursive calls cause symbolic execution to malfunction and create far too many branches than necessary. Thus, this greatly detriments the scalability and efficiency of symbolic execution as the same code block will be analyzed and sent to the constraint solver an X amount of times. Compositional Symbolic Execution solves this by reducing calls to the constraint solver, yet this new version of symbolic execution has not been made publically available, especially for Binary Analysis Platforms. The Bultan Group - Erica Liu, Adrian Lindell, and Jeffrey Mun - will be integrating CSE into angr for that sole purpose. 
 __
 ## Week #, MM/DD/YYYY
 
@@ -27,8 +23,42 @@ __Key Takeaways__
 __Reflections__
 REFLECTION PARAGRAPH
 
+## Week 10, 11/27/2022
+
+### Weekly Goals
+- [] Finalize Proposal
+- [] Practice Presentation
+- [] Address Feedback and change proposal accordingly
+
+__Monday, Time Spent: 3 hrs__
+- [X] Primary V-Lab meeting, Sophia, Jeffrey, Erica, and Adrian in attendance
+   - Might do a practice run of the presentation in front of everyone
+   - everyone also wants to watch our final presentation...
+- [X] Met up with Laboni in the Verification Lab to flesh out some details about our proposal
+   -  I was the only one there, it was a 1:1 meeting
+   -  More clarification on CSE's significance and the significance of transporting its functionality onto angr
+      - CSE reduces calls to the constraint solver
+      - CSE exists for source code, but not for binary code
+      - angr is a binary analysis platform that works on binary code
+         - significance of binary code = might not always have the soruce code
+- [X] Revisited feedback with Prof. Mirza in class
+   - we have a lot of work to do. ;'(
+
+__Tuesday, Time Spent: 2 hrs__
+- [X] Scheduled group meeting, Sophia, Jeffrey, Erica, and Adrian in attendance
+   - Addressed feedback comments and made changes to the proposal
+   - I worked on adding a constraint solver section, fleshing out our problem statement, and rewriting the motivation
+   - Also working on presentation slide deck to prepare for our run through tomorrow
+
+__Key Takeaways__
+- [] Takeaway 1
+- [] Takeaway 2
+
+__Reflections__
+REFLECTION PARAGRAPH
+
 ---
-## Week 9, 11/30/2022
+## Week 9, 11/20/2022
 
 ### Weekly Goals
 - [X] Figure out goals with ERSP
@@ -36,6 +66,7 @@ REFLECTION PARAGRAPH
 - [X] Decide if I want to continue with ERSP
    - Yes
 - [] Finalize presentation and proposal for submission
+   - DELAY TO NEXT WEEK
 
 __Sunday, Time Spent 2 Hrs:__
 - [X] Found more graphics for the proposal
@@ -47,12 +78,18 @@ __Monday, Time Spent 1 Hr:__
 - [X] Conducted grad student interview with Mara, a PhD student in the Verification Lab
 - [X] Reflection 4 
 
+__Saturday, Time Spent 1 Hr:__
+- [X] Last minute changes to the presentation slide deck
+   - Reread the CSE paper to highlight important sections necessary for our presentation
+   - Transport comments from Laboni onto the primary google dock
+- [X] Investigate more on the constraint solver and why it is important for CSE
+
 __Key Takeaways__
-- [] Takeaway 1
-- [] Takeaway 2
+- [] Thanksgiving break makes it hard to do work
+- [] Grad school is an interesting direction that I've never thought of.
 
 __Reflections__
-REFLECTION PARAGRAPH
+Not much to really update, I think this week was really chill. I can't really do too much work as we haven't received our feedback yet, but it is nice to take a break from worrying about the proposal all the time.
 
 ---
 
