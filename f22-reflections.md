@@ -5,7 +5,8 @@
 *Main Research Paper:* Compositional Symbolic Execution Using Fine Grained Summaries
 
 *Research Description:* Symbolic Execution's greatest challenge is its inability to maneuver around path explosion. Loops and recursive calls cause symbolic execution to malfunction and create far too many branches than necessary. Thus, this greatly detriments the scalability and efficiency of symbolic execution as the same code block will be analyzed and sent to the constraint solver an X amount of times. Compositional Symbolic Execution solves this by reducing calls to the constraint solver, yet this new version of symbolic execution has not been made publically available, especially for Binary Analysis Platforms. The Bultan Group - Erica Liu, Adrian Lindell, and Jeffrey Mun - will be integrating CSE into angr for that sole purpose. 
-__
+
+---
 ## Week #, MM/DD/YYYY
 
 ### Weekly Goals
