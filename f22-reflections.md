@@ -45,18 +45,33 @@ __Monday, Time Spent: 3 hrs__
 - [X] Revisited feedback with Prof. Mirza in class
    - we have a lot of work to do. ;'(
 
-__Tuesday, Time Spent: 2 hrs__
+__Tuesday, Time Spent: 2 Hrs__
 - [X] Scheduled group meeting, Sophia, Jeffrey, Erica, and Adrian in attendance
    - Addressed feedback comments and made changes to the proposal
    - I worked on adding a constraint solver section, fleshing out our problem statement, and rewriting the motivation
    - Also working on presentation slide deck to prepare for our run through tomorrow
 
-__Key Takeaways__
-- [] Takeaway 1
-- [] Takeaway 2
+__Wednesday, Time Spent: 2 Hrs__
+- [X] Finished Research proposal
+- [X] Group Meeting, Sophia Jeffrey Ercia and Adrian in attendance
+- [X] Sent research proposal final draft to Laboni for final critiques
 
-__Reflections__
-REFLECTION PARAGRAPH
+__Thursday, Time Spent: 1 Hr__
+- [X] Finished Research Presentation Slides
+   - Practiced in front of Laboni and Professor Bultan
+   - Received critiques and changed accordingly
+   - Finalized last minute details to prepare for Final Presentation
+   - Professor Bultan said that our proposal was very exciting and will be impressive to pull off :)
+
+__Monday, Time Spent: 2 Hrs__
+- [X] Performed final presentation to ERSP group
+- [X] Submitted Final Proposal into Gauchospace
+   - [X] Finished with Fall Quarter of ERSP
+
+__Key Takeaways__
+- [X] ERSP is done!
+- [X] Gonna miss Sophia, but I am excited to work with everyone moving forward
+
 
 ---
 ## Week 9, 11/20/2022
