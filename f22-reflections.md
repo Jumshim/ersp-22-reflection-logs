@@ -1,4 +1,4 @@
-# Jeffrey's Research Log!
+# Jeffrey's Research Log! Fall
 ---
 *Research Topic:* Integrating Compositional Symbolic Execution into the Binary Analysis Platform, angr
 
