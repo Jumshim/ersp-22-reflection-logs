@@ -1,4 +1,4 @@
-# Jeffrey's Research Log! Fall
+# Jeffrey's Research Log! Fall 2022
 ---
 *Research Topic:* Integrating Compositional Symbolic Execution into the Binary Analysis Platform, angr
 
